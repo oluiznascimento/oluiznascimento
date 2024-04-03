@@ -4,7 +4,6 @@
 	<img align="center" alt="python" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 	<img align="center" alt="python" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
-
 ![Luiz's stats](https://github-readme-stats.vercel.app/api?username=oluiznascimento&theme=vision-friendly-dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluiznascimento&hide_progress=true)
