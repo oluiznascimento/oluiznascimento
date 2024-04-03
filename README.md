@@ -1,18 +1,11 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-nascimento-b5a53029a/) 
-##  Skills
+<h1 align="center">Hi 👋, I'm Luiz</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-[](https://github.com/VariableBee/VariableBee/blob/Main/README.md#-skills)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Programming Languages
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oluiznascimento&show_icons=true&locale=en&layout=compact" alt="oluiznascimento" /></p>
 
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) [![C](https://camo.githubusercontent.com/8639a64068ea0e712beec603e79eb19daf6b3c26cb47c782b0debf2843a8bfa5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667
-
-### Tools & Frameworks
-
-[](https://github.com/VariableBee/VariableBee/blob/Main/README.md#tools--frameworks)
-
-[![VScode](https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667)](https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667)
-
-![Luiz's stats](https://github-readme-stats.vercel.app/api?username=oluiznascimento&theme=vision-friendly-dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluiznascimento&hide_progress=true)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oluiznascimento&show_icons=true&locale=en" alt="oluiznascimento" /></p>
