@@ -14,7 +14,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluiznascimento&layout=donut&theme=vision-friendly-dark)
 
 #
-
+<p align="left">
+  <img align="center" src="(https://github.com/oluiznascimento/oluiznascimento/issues/1#issue-2223704648)" alt="Imagem">
+</p>
 
 ### Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
