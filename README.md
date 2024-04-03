@@ -1,12 +1,18 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-nascimento-b5a53029a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-nascimento-b5a53029a/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+##  Skills
 
-<div style="display: inline_block"><br/>
-	<img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-	<img align="center" alt="python" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-	<img align="center" alt="python" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</div>
+[](https://github.com/VariableBee/VariableBee/blob/Main/README.md#-skills)
+
+### Programming Languages
+
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) [![C](https://camo.githubusercontent.com/8639a64068ea0e712beec603e79eb19daf6b3c26cb47c782b0debf2843a8bfa5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667)](https://camo.githubusercontent.com/8639a64068ea0e712beec603e79eb19daf6b3c26cb47c782b0debf2843a8bfa5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667)
+
+### Tools & Frameworks
+
+[](https://github.com/VariableBee/VariableBee/blob/Main/README.md#tools--frameworks)
+
+[![VScode](https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667)](https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667) [![AWS](https://camo.githubusercontent.com/bc33031744a92a7eb6a388ea2e9d3c33dccc355499b0e90d3f5f1ee23a6820f1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616d617a6f6e77656273657276696365732f616d617a6f6e77656273657276696365732d6f726967696e616c2e737667[![Jupyter](https://camo.githubusercontent.com/1c45791eed5cd616585f719a6c647c897ee2344162feea1d0ebce7ec9fd3391b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a7570797465722f6a7570797465722d6f726967696e616c2e737667)](https://camo.githubusercontent.com/1c45791eed5cd616585f719a6c647c897ee2344162feea1d0ebce7ec9fd3391b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a7570797465722f6a7570797465722d6f726967696e616c2e737667) [![Chris-AWS](https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667)](https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667)
 
 ![Luiz's stats](https://github-readme-stats.vercel.app/api?username=oluiznascimento&theme=vision-friendly-dark&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluiznascimento&hide_progress=true)
 
