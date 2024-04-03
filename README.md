@@ -15,7 +15,7 @@
 
 #
 <p align="left">
-  <img align="center" src="(https://github.com/oluiznascimento/oluiznascimento/issues/1#issue-2223704648)" alt="Imagem">
+  <img align="center" src="https://github.com/oluiznascimento/oluiznascimento/issues/1#issue-2223704648" alt="Imagem">
 </p>
 
 ### Skills
