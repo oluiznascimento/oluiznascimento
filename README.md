@@ -10,9 +10,9 @@ Contact links:
 #
 
 
-![luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluiznascimento&show_icons=true&theme=transparent)
+![luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluiznascimento&show_icons=true&theme=vision-friendly-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluiznascimento&layout=donut&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluiznascimento&layout=donut&theme=vision-friendly-dark)
 
 #
 
