@@ -1,5 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-nascimento-b5a53029a/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-### Languages
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-nascimento-b5a53029a/) 
 <div style="display: inline_block"><br/>
 	<img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 	<img align="center" alt="python" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
