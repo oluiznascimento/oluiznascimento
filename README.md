@@ -4,11 +4,11 @@
 Contact links:
 ##### My links:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-nascimento-b5a53029a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-nascimento-b5a53029a/)
 
 
 #
----
+
 
 ![luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluiznascimento&show_icons=true&theme=transparent)
 
@@ -16,7 +16,6 @@ Contact links:
 
 #
 
----
 
 ### Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
