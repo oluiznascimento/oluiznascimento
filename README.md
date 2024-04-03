@@ -15,7 +15,9 @@
 
 #
 
-![giphy](https://github.com/oluiznascimento/oluiznascimento/issues/1#issue-2223704648)
+![giphy](https://github.com/oluiznascimento/oluiznascimento/assets/142462703/ee7c584d-a749-4bba-8595-cbffd4807c99)
+
+
 
 ### Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
