@@ -20,7 +20,6 @@
 
 
 <p align="center">
-  <h3 align="center">Skills</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,docker,bash,mysql" />
   </a>
