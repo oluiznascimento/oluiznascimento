@@ -12,7 +12,7 @@
 <p align="center">
   <span>
     <img src="https://github-readme-stats.vercel.app/api?username=oluiznascimento&show_icons=true&theme=highcontrast" alt="Luiz's GitHub stats" style="display: inline-block; margin-right: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluiznascimento&layout=donut&theme=highcontrast" alt="Top Languages" style="display: inline-block;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluiznascimento&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="oluiznascimento's Top Languages" style="display: inline-block;" />
   </span>
 </p>
 
@@ -21,7 +21,6 @@
 <p align="center">
   <img src="https://github.com/oluiznascimento/oluiznascimento/assets/142462703/ee7c584d-a749-4bba-8595-cbffd4807c99" alt="giphy" />
 </p>
-
 
 <h3 align="center">Used OS</h3>
 <p align="center">
