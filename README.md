@@ -19,16 +19,26 @@
 
 
 
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,docker,bash)](https://skillicons.dev)
+<p align="center">
+  <h3 align="center">Skills</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,docker,bash,mysql" />
+  </a>
+</p>
 
+<p align="center">
+  <h3 align="center">Used OS</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch" />
+  </a>
+</p>
 
-### Used OS
-[![UsedOs](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)
-
-
-### Tools and IDEs
-[![Tools](https://skillicons.dev/icons?i=git,github,obsidian,)](https://skillicons.dev)
+<p align="center">
+  <h3 align="center">Tools and IDEs</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,obsidian,vscode" />
+  </a>
+</p>
 
 
 
