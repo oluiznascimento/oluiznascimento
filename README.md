@@ -10,11 +10,10 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oluiznascimento&show_icons=true&theme=highcontrast" alt="Luiz's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluiznascimento&layout=donut&theme=highcontrast" alt="Top Languages" />
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=oluiznascimento&show_icons=true&theme=highcontrast" alt="Luiz's GitHub stats" style="display: inline-block; margin-right: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluiznascimento&layout=donut&theme=highcontrast" alt="Top Languages" style="display: inline-block;" />
+  </span>
 </p>
 
 <hr>
