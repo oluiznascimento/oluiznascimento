@@ -18,7 +18,7 @@
 ![giphy](https://github.com/oluiznascimento/oluiznascimento/assets/142462703/ee7c584d-a749-4bba-8595-cbffd4807c99)
 
 
-
+<h3 align="center">Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,docker,bash,mysql" />
