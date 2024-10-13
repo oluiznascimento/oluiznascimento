@@ -1,22 +1,27 @@
+<h3 align="center">Hi 👋, I'm Luiz Nascimento, CS Student</h3>
 
-### Hi 👋, I'm Luiz Nascimento, CS Student
+<h5 align="center">My links:</h5>
+<p align="center">
+  <a href="https://www.linkedin.com/in/luiz-nascimento-b5a53029a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-##### My links:
+<hr>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-nascimento-b5a53029a/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oluiznascimento&show_icons=true&theme=highcontrast" alt="Luiz's GitHub stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluiznascimento&layout=donut&theme=highcontrast" alt="Top Languages" />
+</p>
 
-#
+<hr>
 
-
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluiznascimento&show_icons=true&theme=highcontrast)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluiznascimento&layout=donut&theme=highcontrast)
-
-#
-
-![giphy](https://github.com/oluiznascimento/oluiznascimento/assets/142462703/ee7c584d-a749-4bba-8595-cbffd4807c99)
-
+<p align="center">
+  <img src="https://github.com/oluiznascimento/oluiznascimento/assets/142462703/ee7c584d-a749-4bba-8595-cbffd4807c99" alt="giphy" />
+</p>
 
 <h3 align="center">Skills</h3>
 <p align="center">
@@ -25,20 +30,18 @@
   </a>
 </p>
 
+<h3 align="center">Used OS</h3>
 <p align="center">
-  <h3 align="center">Used OS</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch" />
   </a>
 </p>
 
+<h3 align="center">Tools and IDEs</h3>
 <p align="center">
-  <h3 align="center">Tools and IDEs</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,obsidian,vscode" />
   </a>
 </p>
 
-
-
----
+<hr>
