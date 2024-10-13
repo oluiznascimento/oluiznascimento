@@ -9,9 +9,9 @@
 #
 
 
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluiznascimento&show_icons=true&theme=transparent)
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluiznascimento&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluiznascimento&layout=donut&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluiznascimento&layout=donut&theme=radical)
 
 #
 
