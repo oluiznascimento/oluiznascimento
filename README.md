@@ -20,18 +20,15 @@
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,docker,bash)](https://skillicons.dev)
 
 
 ### Used OS
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![UsedOs](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)
 
 
 ### Tools and IDEs
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=git,github,obsidian,)](https://skillicons.dev)
 
 
 
