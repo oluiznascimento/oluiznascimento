@@ -23,17 +23,18 @@
   <img src="https://github.com/oluiznascimento/oluiznascimento/assets/142462703/ee7c584d-a749-4bba-8595-cbffd4807c99" alt="giphy" />
 </p>
 
-<h3 align="center">Skills</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,docker,bash,mysql" />
-  </a>
-</p>
 
 <h3 align="center">Used OS</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch" />
+  </a>
+</p>
+
+<h3 align="center">Skills</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,docker,bash,mysql" />
   </a>
 </p>
 
