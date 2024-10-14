@@ -1,6 +1,6 @@
-<h3 align="center">Hi 👋, I'm Luiz Nascimento, CS Student</h3>
+<h3 align="center">Hi 👋, I'm Luiz, CS Student</h3>
 
-<h5 align="center">My links:</h5>
+<h4 align="center">My links:</h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/luiz-nascimento-b5a53029a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
