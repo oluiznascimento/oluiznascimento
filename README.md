@@ -11,8 +11,7 @@
 
 <p align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=oluiznascimento&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true" alt="oluiznascimento's Stats" style="display: inline-block; margin-right: 10px; width: 45%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluiznascimento&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" alt="oluiznascimento's Top Languages" style="display: inline-block; width: 45%;" />
+ 
   </span>
 </p>
 
