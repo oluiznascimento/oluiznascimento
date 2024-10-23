@@ -10,7 +10,7 @@
 <hr>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluiznascimento&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" alt="oluiznascimento's Top Languages" style="display: inline-block; width: 30%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluiznascimento&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" alt="oluiznascimento's Top Languages" style="display: inline-block; width: 45%;" />
   </span>
 </p>
 
