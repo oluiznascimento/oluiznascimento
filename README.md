@@ -7,18 +7,10 @@
 </p>
 
 <h3 align="center">Skills</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,css,js,react,vue,cpp,mysql,mongodb" />
-  </a>
-</p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,css,js,react,vue,cpp,mysql,mongodb" /></a></p>
 
 <h3 align="center">Tools and IDEs</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,obsidian,vscode" />
-  </a>
-</p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,obsidian,vscode" /></a></p>
 
 <p align="center">
   <img src="https://github.com/oluiznascimento/oluiznascimento/assets/142462703/ee7c584d-a749-4bba-8595-cbffd4807c99" alt="giphy" />
