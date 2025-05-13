@@ -9,7 +9,7 @@
 <h3 align="center">Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,css,js,react,mysql,mongodb,cpp,vue" />
+    <img src="https://skillicons.dev/icons?i=py,css,js,react,vue,cpp,mysql,mongodb" />
   </a>
 </p>
 
